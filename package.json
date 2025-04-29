@@ -12,5 +12,8 @@
     "chai"
   ],
   "author": "hemlata patel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
